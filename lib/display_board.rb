@@ -8,5 +8,4 @@ puts "-----------"
 puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 # out the current state.
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-display_board
+
